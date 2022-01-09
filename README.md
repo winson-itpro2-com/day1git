@@ -2,6 +2,7 @@
 
 - Class Date: Jan 10 - 13, 2022.
 - Facilitator: @winsonliwh
+- Company: ITPro2.com
 
 ## Class Resources
 
